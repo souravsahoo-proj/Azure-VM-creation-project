@@ -28,4 +28,4 @@ ___
 * Step-2: OS disk tupes - premium SSD (locally-redundancy storage)
 * Step-3: Data disk size - 1024 GB
 <br>
-![my image](images/Screenshot%202025-12-05%20124712.png)
+![my image](images/im123.png)
