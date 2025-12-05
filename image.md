@@ -1,1 +1,1 @@
-![alt text](<Screenshot 2025-12-04 230949.png>)
+![mt image](<Screenshot 2025-12-04 230949.png>)
