@@ -23,7 +23,7 @@ ___
 ![image2](https://github.com/souravsahoo-proj/Azure-VM-creation-project/blob/main/images/Screenshot%202025-12-05%20122442.png?raw=true)
 ![image3](https://github.com/souravsahoo-proj/Azure-VM-creation-project/blob/main/images/Screenshot%202025-12-05%20122338.png?raw=true)
 ---
-### Os Dist And Data Dist Creation
+**Os Dist And Data Dist Creation**
 * Step-1: OS disk size - 64 gib (P6)
 * Step-2: OS disk tupes - premium SSD (locally-redundancy storage)
 * Step-3: Data disk size - 1024 GB
