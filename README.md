@@ -27,3 +27,28 @@ ___
 * Step-1: OS disk size - 64 gib (P6)
 * Step-2: OS disk tupes - premium SSD (locally-redundancy storage)
 * Step-3: Data disk size - 1024 GB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+dwisoed3h3
