@@ -21,3 +21,4 @@ ___
   <br>
 ![image1](https://github.com/souravsahoo-proj/Azure-VM-creation-project/blob/main/images/Screenshot%202025-12-05%20111405.png?raw=true)
 ![image2](https://github.com/souravsahoo-proj/Azure-VM-creation-project/blob/main/images/Screenshot%202025-12-05%20111422.png?raw=true)
+![image3](https://github.com/souravsahoo-proj/Azure-VM-creation-project/blob/main/images/Screenshot%202025-12-05%20111436.png?raw=true)
