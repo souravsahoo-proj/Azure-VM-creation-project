@@ -19,3 +19,4 @@ ___
 * Step-10: Size - L2 aou_v4
 * Step-11: Authentication type - Select SSH public key and denerated secure SSH key pair and added the public key during vm creation for password-less authentication.
   <br>
+![image1](https://github.com/souravsahoo-proj/Azure-VM-creation-project/blob/main/images/Screenshot%202025-12-05%20111405.png?raw=true)
