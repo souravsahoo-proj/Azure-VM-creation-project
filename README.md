@@ -1,6 +1,3 @@
-<img width="1919" height="972" alt="Screenshot 2025-12-05 124726" src="https://github.com/user-attachments/assets/c6c0ddb1-a32e-43bd-8796-feb9476278f7" />
-<img width="1919" height="972" alt="Screenshot 2025-12-05 124726" src="https://github.com/user-attachments/assets/8622e5ee-c0dd-4c07-a9ee-24365019c8c3" />
-<img width="1919" height="972" alt="Screenshot 2025-12-05 124726" src="https://github.com/user-attachments/assets/9d2a60de-17eb-4de9-94c5-90936932a4ff" />
 # Azure-VM-creation-project
 **Auther** -Sourav Sahoo **Date** -December 05,2025
 ___
@@ -33,4 +30,3 @@ ___
 
 <img width="1919" height="973" alt="Screenshot 2025-12-05 124712" src="https://github.com/user-attachments/assets/047cd2b5-5af9-4f4f-abdc-fac0c91bf945" />
 <img width="1919" height="972" alt="Screenshot 2025-12-05 124726" src="https://github.com/user-attachments/assets/62c32100-39b7-4b02-99de-01a75faca758" />
-
