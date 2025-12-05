@@ -18,4 +18,6 @@ ___
 * Step-9: Image - ubuntu server 24.04 LTS x64 gen2
 * Step-10: Size - L2 aou_v4
 * Step-11: Authentication type - Select SSH public key and denerated secure SSH key pair and added the public key during vm creation for password-less authentication.
+  <br>
+  ![image alt](https://github.com/souravsahoo-proj/Azure-VM-creation-project/blob/main/Screenshot%202025-12-04%20230949.png?raw=true)
 
