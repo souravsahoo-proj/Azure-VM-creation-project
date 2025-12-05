@@ -1,1 +1,0 @@
-[image alt](Azure-VM-creation-project/Screenshot 2025-12-04 230949.png)
