@@ -28,4 +28,3 @@ ___
 * Step-2: OS disk tupes - premium SSD (locally-redundancy storage)
 * Step-3: Data disk size - 1024 GB
 <br>
-![image4](C:\Users\soura\MyProject(1)\Azure-VM-creation-project\images\Screenshot 2025-12-05 124712.png)
