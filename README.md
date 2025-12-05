@@ -30,3 +30,4 @@ ___
 
 <img width="1919" height="973" alt="Screenshot 2025-12-05 124712" src="https://github.com/user-attachments/assets/047cd2b5-5af9-4f4f-abdc-fac0c91bf945" />
 <img width="1919" height="972" alt="Screenshot 2025-12-05 124726" src="https://github.com/user-attachments/assets/62c32100-39b7-4b02-99de-01a75faca758" />
+![image](https://github.com/souravsahoo-proj/Azure-VM-creation-project/blob/main/Screenshot%202025-12-05%20151108.png?raw=true)
