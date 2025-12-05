@@ -20,5 +20,7 @@ ___
 * Step-11: Authentication type - Select SSH public key and denerated secure SSH key pair and added the public key during vm creation for password-less authentication.
   <br>
   ![image alt](https://github.com/souravsahoo-proj/Azure-VM-creation-project/blob/main/image.png?raw=true)
+  <br>
+  ![image](https://github.com/souravsahoo-proj/Azure-VM-creation-project/blob/main/Screenshot%202025-12-04%20231035.png?raw=true)
   
 
