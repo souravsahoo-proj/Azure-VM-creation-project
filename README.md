@@ -23,4 +23,4 @@ ___
 ![image2](https://github.com/souravsahoo-proj/Azure-VM-creation-project/blob/main/images/Screenshot%202025-12-05%20122442.png?raw=true)
 ![image3](https://github.com/souravsahoo-proj/Azure-VM-creation-project/blob/main/images/Screenshot%202025-12-05%20122338.png?raw=true)
 ---
-
+### Os Dist And Data Dist Creation
